@@ -18,3 +18,4 @@ contract SavingsAccount {
         payable(msg.sender).sendValue(amountDeposited);
     }
 }
+
